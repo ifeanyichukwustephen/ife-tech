@@ -1,0 +1,8 @@
+.ifeanyichukwu{
+    border-radius: 50%;
+}
+.about{
+    text-align: center;
+    font-family: serif;
+    text-transform: capitalize;
+}
